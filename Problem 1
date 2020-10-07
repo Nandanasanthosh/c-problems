@@ -10,7 +10,7 @@ sockMerchant has the following parameter(s):
 
     n: the number of socks in the pile
     ar: the colors of each sock*/
- ''''c   
+```   
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -95,4 +95,4 @@ vector<string> split_string(string input_string) {
 
     return splits;
 }
-''''
+```
